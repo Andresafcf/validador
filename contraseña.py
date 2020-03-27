@@ -8,4 +8,3 @@ if validar!=None:
 else:
     print("la contraseña no es valida")
 
-#probando que se subió el que era
